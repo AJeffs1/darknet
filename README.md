@@ -1,3 +1,4 @@
+Forked 29/07/2020, for work on personal project and didnt want updates to affect work, will look at updating when it comes to maintaining the code
 # Yolo-v4 and Yolo-v3/v2 for Windows and Linux
 ### (neural network for object detection) - Tensor Cores can be used on [Linux](https://github.com/AlexeyAB/darknet#how-to-compile-on-linux) and [Windows](https://github.com/AlexeyAB/darknet#how-to-compile-on-windows-using-cmake-gui)
 
